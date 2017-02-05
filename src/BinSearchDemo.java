@@ -1,5 +1,7 @@
 /**
  * Created by xuwei on 2017/2/5.
+ * 二分查找算法：比较次数少，查找速度快，算法高效
+ * 【二分查找要求】：1.必须采用顺序存储结构 2.必须按关键字大小有序排列。
  */
 public class BinSearchDemo {
     public static void main(String[] args) {
